@@ -1,0 +1,25 @@
+# Node.js modules
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de log
+*.log
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el build
+dist/
+build/
+
+# Configuración del IDE
+.vscode/
+.idea/
+
+# Archivos de caché y temporales
+*.tmp
+*.swp
+*.swo
